@@ -17,7 +17,7 @@ page = requests.get('http://poea.gov.ph/cgi-bin/agList.asp?mode=allLB')
 #print(soup.prettify())
 #title=[]
 #for t in soup.findAll('b'):
-#	print (t)
+
 
 #html = page.content[4501:6000].decode('utf-8')
 #html = page.content[4501:].decode('utf-8')
